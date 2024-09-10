@@ -4,7 +4,7 @@ public class TestUtil {
 
 	
 	public static void main(String[] args) {
-		System.out.println("Demand updated new test");
+		System.out.println("Demand updated new test changes made");
 	}
 	
 }
